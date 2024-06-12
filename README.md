@@ -18,10 +18,10 @@ So I decided to create this repository, to record my growth, to record my progre
 
 This repo is separated into 4 folders, representing 4 years in HBNU:
 
-- `[freshman](./freshman_year/)` - Freshman year
-- `[sophomore](./sophomore_year/)` - Sophomore year
-- `[junior](./junior_year/)` - Junior year
-- `[senior](./senior_year/)` - Senior year
+- [`freshman`](./freshman_year/) - Freshman year
+- [`sophomore`](./sophomore_year/) - Sophomore year
+- [`junior`](./junior_year/) - Junior year
+- [`senior`](./senior_year/) - Senior year
 
 ## Credits
 

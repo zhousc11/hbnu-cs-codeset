@@ -18,10 +18,10 @@
 
 这个仓库分为4个文件夹，代表了湖师的4年：
 
-- `[freshman](./freshman_year/)` - 大一
-- `[sophomore](./sophomore_year/)` - 大二
-- `[junior](./junior_year/)` - 大三
-- `[senior](./senior_year/)` - 大四
+- [`freshman`](./freshman_year/) - 大一
+- [`sophomore`](./sophomore_year/) - 大二
+- [`junior`](./junior_year/) - 大三
+- [`senior`](./senior_year/) - 大四
 
 ## 致谢
 
